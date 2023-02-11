@@ -1,0 +1,52 @@
+<div class="row">
+      <div class="card-group">
+        <div class="col-lg-4 col-md-6 detailrow">
+          <div class="card">
+            <div class="card-header">
+              <img class="details-image"src="images/basic.jpg">
+              <h2>Basic</h2>
+
+            </div>
+            <div class="card-body">
+              <p>Standard hotels</p>
+              <p>Hatch-Back cars for travel</p>
+              <p>No sight-seeing</p>
+              <button class="btn btn-outline-dark">Buy Now</button>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-3 detailrow">
+          <div class="card card-my">
+            <div class="card-header">
+              <img class="details-image" src="images/comfort.jpg">
+              <h2>Comfort</h2>
+
+            </div>
+            <div class="card-body">
+              <p>3 star hotels</p>
+              <p>Sedan cars for travel</p>
+              <p>No sight-seeing</p>
+              <button class="btn btn-outline-dark">Buy Now</button>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-12 detailrow">
+          <div class="card card-my">
+            <div class="card-header">
+              <img class="details-image"src="images/luxiry.jpg">
+              <h2>Luxury</h2>
+
+            </div>
+            <div class="card-body">
+              <p>5/7 star hotels</p>
+              <p>Premium luxury cars for travel</p>
+              <p>sight-seeing included</p>
+              <button class="btn btn-outline-dark">Buy Now</button>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
