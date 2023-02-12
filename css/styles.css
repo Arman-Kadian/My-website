@@ -95,7 +95,7 @@ font-family: 'Outfit', sans-serif;
     position: relative;
     left: 29rem;
     top: 0rem;
-    z-index: 0;
+    z-index: 2;
 }
 .partner-image-left{
     height: 6rem;
@@ -103,7 +103,7 @@ font-family: 'Outfit', sans-serif;
     position: relative;
     left: -29rem;
     top: 4rem;
-    z-index: 0;
+    z-index: 2;
 }
 #details{
     margin-top:0;
