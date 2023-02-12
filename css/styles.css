@@ -91,7 +91,7 @@ font-family: 'Outfit', sans-serif;
 }
 .partner-image{
     height: 6rem;
-    margin: -4rem 5rem;
+    margin: -4rem 4rem;
     position: relative;
     left: 29rem;
     top: 0rem;
@@ -133,4 +133,67 @@ font-family: 'Outfit', sans-serif;
 .card:hover{
     background-color: #F2CD5C;
     
+}
+@media (max-width:992px){
+    .intropara{
+        text-align:center;
+
+    }
+    
+}
+#sponsers{
+    background-color: #F2CD5C;
+}
+.sponser-image{
+    height:8rem;
+    
+    transition:border-radius 0.7s;
+
+    
+
+}
+.sponser-image:hover{
+   
+    border-radius:100%;
+
+}
+.sponser-col{
+    text-align: center;
+
+}
+.sponsor-row{
+    padding:5%;
+}
+.sponser-heading{
+    font-weight: 800;
+    margin-top: 0px;
+    margin-left: 45%;
+}
+
+#footer
+{  background-color: #F9F5E7;
+    padding:5%;
+    text-align: center;
+
+    
+
+}
+.footer-icon{
+    font-style: none;
+    font-family: Poppins, sans-serif;
+
+}
+.footer-heading{
+    padding-bottom:3%;
+    
+    
+}
+
+.footerpara{
+    margin-top:3%;
+    
+}
+.footer-col
+{
+    text-align: center;
 }
